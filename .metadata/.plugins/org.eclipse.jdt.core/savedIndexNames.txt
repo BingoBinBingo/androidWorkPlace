@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/bingo/android/workspace/.metadata/.plugins/org.eclipse.jdt.core
+2758401031.index
+979691853.index
+1270315800.index

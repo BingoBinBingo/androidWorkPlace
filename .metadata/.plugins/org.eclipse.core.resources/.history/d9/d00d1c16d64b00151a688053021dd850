@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>	
+	<string-array name = "books" >
+		<item>疯狂Java讲义</item>
+		<item>疯狂Ajax讲义</item>
+		<item>疯狂XML讲义</item>
+		<item>疯狂Android讲义</item>
+		<item>疯狂HTML讲义</item>
+		<item>疯狂Web讲义</item>
+		<item>疯狂Struts讲义</item>
+		<item>疯狂Android讲义</item>
+	</string-array>    
+</resources>
